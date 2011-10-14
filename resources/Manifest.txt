@@ -1,0 +1,8 @@
+Main-Class: org.rsbot.Boot
+
+Name: org/rsbot
+Sealed: true
+Specification-Title: "RenatusBot"
+Specification-Vendor:  "org.rsbot"
+Implementation-Title: "RenatusBot"
+Implementation-Vendor: "org.rsbot"

@@ -1,0 +1,10 @@
+[DONE] Re-write the event system (to an extent, make more flexible + support new event scripts)
+[    ] Review the TaskContainer
+[    ] Write API methods from the ground up
+[    ] Write API wrappers from the ground up (<- easy?)
+[    ] Re-write the Interface Explorer
+[    ] Write a Settings Explorer
+[DONE] Remove login dialog (replace with something else first)
+[    ] Completely re-write the bot home
+[    ] Create event script framework
+[    ] Create new loader
