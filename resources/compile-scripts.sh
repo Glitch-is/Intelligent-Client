@@ -7,7 +7,7 @@ scriptspre=Scripts/Precompiled
 jarpathfile=Settings/path.txt
 
 if [ ! -e "$jarpathfile" ]; then
-	echo "Path file does not exist. Please run RSBot and try again."
+	echo "Path file does not exist. Please run Intelligent Client and try again."
 	exit
 fi
 
