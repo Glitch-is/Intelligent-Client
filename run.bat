@@ -3,7 +3,7 @@
 SET cc=java
 SET cflags=-jar
 SET res=resources
-SET dist=RenatusBot.jar
+SET dist="Intelligent Client.jar"
 
 CALL "%res%\FindJDK.bat"
 

@@ -6,7 +6,7 @@ SET src=src
 SET lib=lib
 SET res=resources
 SET out=bin
-SET dist=RenatusBot.jar
+SET dist="Intelligent Client.jar"
 
 CALL :clean 2>NUL
 CALL "%res%\FindJDK.bat"
